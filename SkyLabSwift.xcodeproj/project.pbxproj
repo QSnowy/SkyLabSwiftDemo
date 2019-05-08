@@ -24,7 +24,6 @@
 		80F975202282AAE60006739D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80F975222282AAE60006739D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		80F975282282AB250006739D /* SkyLab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkyLab.swift; sourceTree = "<group>"; };
-		80F9752A2282D3040006739D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +63,6 @@
 				80F9751D2282AAE60006739D /* Assets.xcassets */,
 				80F9751F2282AAE60006739D /* LaunchScreen.storyboard */,
 				80F975222282AAE60006739D /* Info.plist */,
-				80F9752A2282D3040006739D /* README.md */,
 			);
 			path = SkyLabSwift;
 			sourceTree = "<group>";
